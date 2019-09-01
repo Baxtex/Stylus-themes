@@ -1,0 +1,47 @@
+@-moz-document url-prefix("https://mah.itslearning.com") {
+body,
+div,
+nav,
+textarea,
+#aspnetForm div,
+#aspnetForm li,
+#l-header ul,
+.treemenu-viewport,
+.h-hlist span,
+.itsl-widget-content-ul span,
+#ctl00_TreeMenu_ViewPort h1,
+.itsl-formbox,
+#ctl00_MainHolder ul,
+#personal-menu__instant-message button,
+#personal-menu__instant-message span,
+#ctl00_ContentPlaceHolder_ProcessFolderGrid_PagerDropdown,
+#ctl00_ContentPlaceHolder_ProcessFolderGrid_ctl01 span,
+.fc-border-separate thead,
+.ccl-commentmodule-inputarea input,
+#ctl02 div,
+#ctl02 li,
+#ctl00_ContentPlaceHolder_ParticipantsGrid_T tr,
+#ctl00_ContentPlaceHolder_ParticipantsGrid_T th,
+#Favorite a,
+.tablelisting tr,
+#ctl00_ContentPlaceHolder_BrowseFilesDataGrid_ctl00 th {
+    background-color: #1A1A1A;
+    color: #D9D9D9;
+    border-color: #076FB0;
+}
+input {
+    background-color: #383A3B;
+}
+#l-quick-orientation,
+nav,
+.l-crumbs-wrapper a,
+.l-crumbs-wrapper span,
+.h-is-not-mobile li,
+#crumbs li {
+    background-color: #076FB0;
+}
+#ctl00_ContentPlaceHolder_ProcessFolderGrid_T tr,
+#ctl00_ContentPlaceHolder_ProcessFolderGrid_T th {
+    background-color: #19191A;
+}
+}

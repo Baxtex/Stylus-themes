@@ -1,0 +1,28 @@
+@-moz-document domain("schema.mah.se") {
+ body {
+     background-color: #1A1A1A;
+ }
+ .schemaTabell td {
+     border-color: #353434;
+ }
+ .data-white {
+     background-color: #212020;
+ }
+ .data-grey {
+     background-color: #101010;
+ }
+ td,
+ a:link,
+ a:visited,
+ a:hover,
+ a:active {
+     color: #2D95FF;
+ }
+ img,
+ th {
+     display: none;
+ }
+ .vecka {
+     color: #3298FF;
+ }
+}

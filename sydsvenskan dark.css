@@ -1,0 +1,64 @@
+body,
+div,
+.main__left {
+    background-color: #1A1A1A;
+    border-color: #353434;
+    border-style: none;
+}
+
+h1,
+h2,
+h3,
+.article-text,
+p,
+.teaser__heading,
+.teaser__preamble,
+.listitem__title,
+.article-preamble {
+    color: #D1D1D1;
+}
+
+.article__premium-box,
+.notifier,
+.article__premium-box,
+.custom-pw-container,
+.deck-newsletter {
+    display: none;
+}
+.navigation-main,
+.head__navigation,
+.navigation-more,
+.head__user-navigation,
+.navigation-home {
+    background-color: #060606;
+}
+
+.article-factbox,
+.article-factbox--premium {
+    background-color: #131212;
+    color: #dc1f47;
+    border-color: #353434;
+}
+
+.article-factbox--expander {
+    background: linear-gradient(hsla(0, 0%, 96.1%, 0), #3e3d3d 75%);
+    height: 60px
+}
+
+.premium-banner__text {
+    background-color: #1A1A1A;
+    color: #dc1f47;
+}
+
+#listbox_button_fullday {
+    border-color: #353434;
+    background-color: #dc1f47;
+}
+
+.section-industry{
+    background-color: #1A1A1A
+}
+
+.premium-flag{
+    background-color: #dc1f47;
+}
