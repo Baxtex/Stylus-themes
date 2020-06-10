@@ -16,7 +16,8 @@
     border: hidden;
 }
 
-.search-form-home .highlight {
+.search-form-home .highlight,
+.search-form .highlight {
     border: 1px solid #00bcff;
 }
 
@@ -94,7 +95,8 @@ a:hover,
 .menu-link:hover,
 .sp-gl__result,
 .pagination__num,
-.pagination__next-prev-button {
+.pagination__next-prev-button,
+.wp-qi-tp__title {
     color: #00bcff;
 }
 
